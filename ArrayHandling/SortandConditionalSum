@@ -1,0 +1,46 @@
+#####################################################
+#Author: Abhishek Veeramalla
+
+"""
+John wants to buy a few things from a groceries store, To his surprise he finds a grocery store which is running a strange give away. The store has a section
+of items to which owner is ready to pay to the customers. Unfortunately, John can accomodate only `M` number of items in his truck. So, John decides to Pick few items that he 
+needs and a few from the give away section.
+
+Create a function that would tell you the profit John made.
+
+Sample Inputs:
+
+Set 1:
+------
+1
+2
+[10, 20, 30, -40, -50]
+
+Set 2:
+------
+2 
+3
+[-10, -20 -30, 10, 15]
+
+
+First line of the Data Set defines `M` - Number of items that John can accomadate in his truck
+Second line of the Data Set defines the number of items which are on give away.
+Third lines of the Data Set defines the prices of all the items that are available in the store.
+"""
+#####################################################
+
+def getProfit(arr, M):
+    arr.sort()
+    profit = 0
+    for i in range(M):
+        if arr[i] < 0:
+            profit = profit + arr[i]
+    print("Profit made by John is: " + str(abs(profit)))
+    
+def main():
+    items = [-1, -2, 3, 4, 5]
+    M = 3
+    getProfit(items, M)
+
+main()
+
