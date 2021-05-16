@@ -1,0 +1,7 @@
+six
+
+[:python_version == "2.7"]
+tornado<6
+
+[:python_version > "2.7"]
+tornado

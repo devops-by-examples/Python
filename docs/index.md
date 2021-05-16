@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Learn Python by Examples 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This site is developed and maintained with the intention to teach the concepts of python with basic examples. We believe learning any new concept with a basic example and its real time usage is the best way to learn. 
 
-## Commands
+Python is a fast growing and a very easy to learn programming language. It is widely used in the fields of Development, Automation, DevOps, Machine Learning, Artifical Intelligence, Big Data and many. It is so versitile in usage yet a very simple programming language to learn. 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+If you see any issue with the documentation or examples, Please feel free to raise an issue [here](https://github.com/devops-by-examples/Python) or drop a mail to abhishek.veeramalla@gmail.com 
