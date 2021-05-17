@@ -1,4 +1,4 @@
-#!/Users/aveerama/go/src/github.com/iam-veeramalla/Python/test/bin/python3.9
+#!/Users/aveerama/go/src/github.com/iam-veeramalla/Python/venv/bin/python3.9
 # EASY-INSTALL-ENTRY-SCRIPT: 'future==0.18.2','console_scripts','futurize'
 import re
 import sys

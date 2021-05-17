@@ -1,4 +1,4 @@
-#!/Users/aveerama/go/src/github.com/iam-veeramalla/Python/test/bin/python3.9
+#!/Users/aveerama/go/src/github.com/iam-veeramalla/Python/venv/bin/python3.9
 # EASY-INSTALL-ENTRY-SCRIPT: 'livereload==2.6.3','console_scripts','livereload'
 import re
 import sys

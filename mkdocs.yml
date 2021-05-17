@@ -2,12 +2,12 @@ site_name: python-by-examples
 repo_url: https://github.com/devops-by-examples/Python
 strict: true
 theme:
-  name: mkdocs
+  name: material
   palette:
-    primary: teal
+    primary: indigo
   font:
-    text: 'Work Sans'
-  logo: 'assets/logo.png'
+    text: 'Roboto'
+  logo: 'assets/images/logo.png'
 extra_css:
   - 'assets/extra.css'
 markdown_extensions:
