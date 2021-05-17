@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: python-by-examples
+repo_url: https://github.com/devops-by-examples/Python
+strict: true
+markdown_extensions:
+- codehilite
+- admonition
+- toc:
+    permalink: true
+nav:
+  - About: index.md
+  - Overview: index.md
+  - Data Types:
+    - Introduction: datatypes/introduction.md
+  - Loops: 
+    - Basics: loops/introduction.md
