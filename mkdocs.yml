@@ -2,7 +2,7 @@ site_name: python-by-examples
 repo_url: https://github.com/devops-by-examples/Python
 strict: true
 theme:
-  name: material
+  name: mkdocs
   palette:
     primary: teal
   font:
