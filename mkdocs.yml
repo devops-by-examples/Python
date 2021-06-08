@@ -18,6 +18,8 @@ markdown_extensions:
 nav:
   - About: index.md
   - Overview: index.md
+  - Variables:
+    - Introduction: variables/introduction.md
   - Data Types:
     - Introduction: datatypes/introduction.md
   - Loops: 
