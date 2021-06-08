@@ -2,7 +2,6 @@
 In programming, a variable is a storage location (identified by a memory address) paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value or in easy terms, a variable is a container for different types of data (like integer, float, String and etc...). The variable name is the usual way to reference the stored value, in addition to referring to the variable itself, depending on the context. This separation of name and content allows the name to be used independently of the exact information it represents. The identifier in computer source code can be bound to a value during run time, and the value of the variable may thus change during the course of program execution.
 
 # Dynamically Typed vs Statically Typed Languages
-
 Python is a dynamically typed programing language, Which means you don't have to define the type of the variable, variable can be created and assigned and the same time.
 
 In case of a statically typed languages like golang, Java and many others. You need to define the type of the variable before assigning data to it.
