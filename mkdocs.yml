@@ -1,4 +1,5 @@
 site_name: python-by-examples
+site_url: https://python-by-examples.readthedocs.io
 repo_url: https://github.com/devops-by-examples/Python
 strict: true
 theme:
