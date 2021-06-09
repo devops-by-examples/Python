@@ -23,5 +23,9 @@ nav:
     - Introduction: variables/introduction.md
   - Data Types:
     - Introduction: datatypes/introduction.md
+    - Strings: datatypes/strings.md
   - Loops: 
-    - Basics: loops/introduction.md
+    - Introduction: loops/introduction.md
+    - While: loops/while.md
+    - For: loops/for.md
+    - Problems: loops/problems.md
