@@ -15,7 +15,7 @@ for item in 'abhishekveeramalla':
 
 ## Question 2
 
-Write a python program to print the below pattern. While it might look silly at the very first place but for a beginer such creative problems are very useful.
+Write a python program to print the below pattern. While it might look silly at the very first place but for a beginner such creative problems are very useful.
 
 ```txt
 * 
@@ -70,7 +70,7 @@ def pyramid(n):
         # number of columns
         for y in range(x+1):
             print(num, end=" ")
-            # increament
+            # increment
             num = num + 1
 
         # new line
