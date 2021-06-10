@@ -80,3 +80,19 @@ def pyramid(n):
 n = 5
 pyramid(n)
 ```
+
+## Knowledge Test
+
+By now, you have learnt about loops and how they are used in Python. Solve the below problem to access your expertise on loops.
+
+## Question 4
+
+Print the below patten
+
+```txt
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+```
