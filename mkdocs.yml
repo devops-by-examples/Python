@@ -18,9 +18,18 @@ markdown_extensions:
     permalink: true
 nav:
   - About: index.md
-  - Overview: index.md
   - Variables:
     - Introduction: variables/introduction.md
+  - Operators:
+    - Introduction: operators/introduction.md
+    - Arithmetic: operators/arithmetic.md
+    - Assignment: operators/assignment.md
+    - Logical: operators/logical.md
+    - Relational: operators/relational.md
+    - Identity: operators/identity.md
+    - Membership: operators/membership.md
+    - Bitwise: operators/bitwise.md
+    - Precedence: operators/precedence.md
   - Data Types:
     - Introduction: datatypes/introduction.md
     - Strings: datatypes/strings.md
