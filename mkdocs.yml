@@ -33,6 +33,9 @@ nav:
   - Data Types:
     - Introduction: datatypes/introduction.md
     - Strings: datatypes/strings.md
+    - List: datatypes/list.md
+    - List Methods: datatypes/list_methods.md
+    - List Exercise: datatypes/list_exercise.md
   - Loops: 
     - Introduction: loops/introduction.md
     - While: loops/while.md
