@@ -96,3 +96,30 @@ Print the below patten
 7 8 9 10 
 11 12 13 14 15 
 ```
+
+## Question 5
+
+Read a number `n` as input from users.  
+
+Example: `n = 3`
+
+The list of non-negative integers that are less than `n = 3`  is `0, 1, 2`. Print the square of each number on a separate line.
+
+Sample Output:
+
+```txt
+0 
+1
+4
+```
+
+## Question 6
+
+Read a number `n` as input from users.  
+
+Example: `n = 100`
+
+Write a program for the below.
+
+1. Print Odd numbers and Even numbers between `0` and `n`
+2. Print ONLY numbers which are divisible by `3` OR divisible by `5`. DO NOT print numbers which are divisible by both `3` and `5`.
