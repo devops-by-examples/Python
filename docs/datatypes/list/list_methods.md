@@ -5,7 +5,9 @@ Below are the in-built list methods supported by Python.
 * `append()`
 * `clear()`
 * `copy()`
+* `count()`
 * `extend()`
+* `index()`
 * `insert()`
 * `pop()`
 * `remove()`

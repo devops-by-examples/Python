@@ -1,6 +1,6 @@
 # List
 
-List is one of the sequence data types in Python. It can be referred as a collection of homogenous items.
+List is one of the sequence data types in Python. It can be referred as a collection of items.
 
 ```txt
 emptyList = []

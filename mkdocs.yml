@@ -32,12 +32,17 @@ nav:
     - Precedence: operators/precedence.md
   - Data Types:
     - Introduction: datatypes/introduction.md
-    - Strings: datatypes/strings.md
-    - List: datatypes/list.md
-    - List Methods: datatypes/list_methods.md
-    - List Exercise: datatypes/list_exercise.md
+    - Strings: 
+      - Introduction: datatypes/strings/strings.md
+    - List: 
+      - Introduction: datatypes/list/list.md
+      - Methods: datatypes/list/list_methods.md
+      - Questions: datatypes/list/list_exercise.md
+    - Tuple: 
+      - Introduction: datatypes/tuple/tuple.md
+      - Questions: datatypes/tuple/tuple_exercise.md
   - Loops: 
     - Introduction: loops/introduction.md
     - While: loops/while.md
     - For: loops/for.md
-    - Problems: loops/problems.md
+    - Questions: loops/problems.md
