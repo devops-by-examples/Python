@@ -41,6 +41,10 @@ nav:
     - Tuple: 
       - Introduction: datatypes/tuple/tuple.md
       - Questions: datatypes/tuple/tuple_exercise.md
+    - Set: 
+      - Introduction: datatypes/set/set.md
+      - Methods: datatypes/set/set_methods.md
+      - Questions: datatypes/set/set_exercise.md
   - Loops: 
     - Introduction: loops/introduction.md
     - While: loops/while.md
