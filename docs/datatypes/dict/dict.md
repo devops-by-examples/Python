@@ -29,7 +29,7 @@ Dictionaries differ from lists primarily in how elements are accessed:
 A value is retrieved from a dictionary by specifying its corresponding key in square brackets.
 
 ```python
-car = dict( colour = 'Black', brand = "Ford", model = "Mustang", year = 2021)
+car = dict(colour = 'Black', brand = "Ford", model = "Mustang", year = 2021)
 print(car)
 print car['colour']
 print car['brand]
@@ -48,8 +48,9 @@ Output:
 Adding an entry to an existing dictionary is simply a matter of assigning a new key and value.
 
 ```python
+car = dict(colour = 'Black', brand = "Ford", model = "Mustang", year = 2021)
 car['city'] = 'Hyderabad'
-car
+print(car)
 ```
 
 Output:
@@ -63,8 +64,9 @@ Output:
 To update an entry, you can just assign a new value to an existing key.
 
 ```python
+car = dict(colour = 'Black', brand = "Ford", model = "Mustang", year = 2021)
 car['city'] = 'Banglore'
-car
+print(car)
 ```
 
 Output:
@@ -78,8 +80,9 @@ Output:
 To delete an entry, use the del statement, specifying the key to delete.
 
 ```python
+car = dict(colour = 'Black', brand = "Ford", model = "Mustang", year = 2021)
 del car['brand']
-car
+print(car)
 ```
 
 Output:
