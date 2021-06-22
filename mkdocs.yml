@@ -45,6 +45,10 @@ nav:
       - Introduction: datatypes/set/set.md
       - Methods: datatypes/set/set_methods.md
       - Questions: datatypes/set/set_exercise.md
+    - Dict: 
+      - Introduction: datatypes/dict/dict.md
+      - Methods: datatypes/dict/dict_methods.md
+      - Questions: datatypes/dict/dict_exercise.md
   - Loops: 
     - Introduction: loops/introduction.md
     - While: loops/while.md
