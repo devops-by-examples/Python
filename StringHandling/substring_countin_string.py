@@ -17,4 +17,5 @@ def main():
     match=check(s1,s2) 
     print(match)
   
+# This is the main function 
 main()
