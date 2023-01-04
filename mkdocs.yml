@@ -54,3 +54,10 @@ nav:
     - While: loops/while.md
     - For: loops/for.md
     - Questions: loops/problems.md
+  - Comprehensions:
+    - Introduction: comprehensions/introduction.md
+    - List Comprehension:
+      - Introduction: listcomprehension/introduction.md
+    - Dictionary Comprehension:
+      - Introduction: dictionarycomprehension/introduction.md
+
