@@ -57,7 +57,7 @@ nav:
   - Comprehensions:
     - Introduction: comprehensions/introduction.md
     - List Comprehension:
-      - Introduction: listcomprehension/introduction.md
+      - Introduction: comprehensions/listcomprehension/introduction.md
     - Dictionary Comprehension:
-      - Introduction: dictionarycomprehension/introduction.md
+      - Introduction: comprehensions/dictionarycomprehension/introduction.md
 
