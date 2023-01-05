@@ -60,4 +60,6 @@ nav:
       - Introduction: comprehensions/listcomprehension/introduction.md
     - Dictionary Comprehension:
       - Introduction: comprehensions/dictionarycomprehension/introduction.md
+    - Set Comprehensions:
+      - Introduction: comprehensions/setcomprehensions/introduction.md
 
