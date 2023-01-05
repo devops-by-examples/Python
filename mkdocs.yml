@@ -62,4 +62,6 @@ nav:
       - Introduction: comprehensions/dictionarycomprehension/introduction.md
     - Set Comprehensions:
       - Introduction: comprehensions/setcomprehensions/introduction.md
+    - Generator Comprehensions:
+      - Introduction: comprehensions/generatorcomprehensions/introduction.md
 

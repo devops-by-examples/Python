@@ -12,10 +12,12 @@ List comprehension has these essential parts :
 
 Basic syntax is as follows:
 
-```commandline
+```txt
   my_list = [<expression> for <item> in <iterable> if <condition>]
  ```
+
 Let's have an example for demonstration.Suppose we have a list with just 1-10 integers
+
 
 ```commandline
 my_list = [1,2,3,4,5,6,7,8,9,10]
