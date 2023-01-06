@@ -1,4 +1,4 @@
-Last but not the list, Generator Comprehension is also not known by most of the people. The generator is a quite unique syntax in Python, it is usually generated from a function with yield keyword rather than Python.
+Last but not the least, Generator Comprehension is also not known by most of the people. The generator is a quite unique syntax in Python, it is usually generated from a function with yield keyword rather than Python.
 
 For example, let’s use the same number list and requirements from the List Comprehension section. We can define a function to make a generator for us.
 
