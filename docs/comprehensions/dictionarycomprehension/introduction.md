@@ -5,7 +5,7 @@ The name **"Something"** Comprehension, is actually depending on the output obje
 The basic syntax is ad follows:
 
 ```commandline
-my_dict = [<key>:<value> for <item> in <iterable> if <condition>]
+my_dict = {<key>:<value> for <item> in <iterable> if <condition>}
 ```
 
 Please be noticed that the **key** and the **value** here can be expressions with or without **item**.
