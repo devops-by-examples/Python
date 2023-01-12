@@ -66,4 +66,5 @@ nav:
       - Introduction: comprehensions/generatorcomprehensions/introduction.md
   - File Operations:
     - Introduction: file_handling/introduction.md
-
+  - Python Modules:
+    - Introduction: python_modules/introduction.md
