@@ -68,3 +68,5 @@ nav:
     - Introduction: file_handling/introduction.md
   - Python Modules:
     - Introduction: python_modules/introduction.md
+  - Exception:
+    - Introduction: exceptional_handling/introduction.md
