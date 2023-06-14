@@ -4,7 +4,7 @@ In programming, a variable is a storage location (identified by a memory address
 
 ## Dynamically Typed vs Statically Typed Languages
 
-Python is a dynamically typed programing language, Which means you don't have to define the type of the variable, variable can be created and assigned and the same time.
+Python is a dynamically typed programming language, Which means you don't have to define the type of the variable, variable can be created and assigned at the same time.
 
 In case of a statically typed languages like golang, Java and many others. You need to define the type of the variable before assigning data to it.
 
@@ -49,11 +49,11 @@ There are many other appected ways of declaring variables in Python but above ex
 
 ## General guidelines on how to name your identifiers:
 
-* **Module**-> lowercase
-* **Class** -> CapWords
-* **Functions** -> lowercase
-* **Methods** -> lowercase
-* **Constants** -> UPPERCASE
-* **Package** -> lowercase
+- **Module**-> lowercase
+- **Class** -> CapWords
+- **Functions** -> lowercase
+- **Methods** -> lowercase
+- **Constants** -> UPPERCASE
+- **Package** -> lowercase
 
 Avoid the usage of 'l', 'O' or 'I' as a single variable name: these characters look similar to zero (0) and (1) in some fonts.
